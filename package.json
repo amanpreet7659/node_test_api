@@ -16,7 +16,7 @@
     "winston": "^3.8.0"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "name": "node_test_api",
   "version": "1.0.0",
